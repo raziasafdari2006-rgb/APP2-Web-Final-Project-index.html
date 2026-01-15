@@ -1,6 +1,6 @@
 body{
     
-    background-image: url(images/sign\ jisoo.jpg);
+    background-image: url(sign\ jisoo.jpg);
      box-shadow:black;
      box-sizing: border-box;
      background-size:  left contain;
@@ -43,3 +43,4 @@ h2{
     margin-bottom: 30px;
     margin-top: 20px;
 }
+
