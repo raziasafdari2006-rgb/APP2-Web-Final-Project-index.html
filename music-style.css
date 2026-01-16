@@ -1,0 +1,128 @@
+
+body {
+    background-image: url("images/music.jpg");
+    background-attachment: fixed;
+    background-size:contain;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #877a7a;
+    color: #eee;
+}
+.hero {
+    background: linear-gradient(black, #aa316d);
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero h1 {
+    font-size: 60px;
+    letter-spacing: 3px;
+     font-family: "Merienda", cursive;
+}
+
+.article-grid {
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+}
+.story img {
+    width: 70%;
+    display: block;
+    margin:  20px auto;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+h2{
+    color: #f7f1f4;
+    font-size: 38px;
+    background-color: #4d4545;
+    text-align: center;
+     font-family: "Trade Winds", system-ui;
+}
+
+.caption {
+    color: #bbb;
+    font-size: 14px;
+    text-align: center
+}
+
+ul {
+    line-height: 1.8;
+}
+.video-link {
+    background-position: center;
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.video-link a {
+    color: #f23d97;
+    font-weight: bold;
+}
+
+.video-link a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(34, 33, 33);
+    color: #ede5e5;
+     font-family: "Merienda", cursive;
+}
+
+.music-section {
+    flex-direction: column;
+    margin-top: 40px;
+}
+.song {
+    margin: 0 auto 25px;
+    width: 500px;
+    background-color: #3f3b3b;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.song h3 {
+    color: #ff2d95;
+}
+
+.song img {
+    width: 100%;
+    border-radius: 15px;
+    transition: transform 0.3s;
+}
+
+.song img:hover {
+    transform: scale(1.03);
+}
+
+.song video {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(255,45,149,0.4);
+    margin-top: 15px;
+}
+
+.song .caption {
+    color: #ccc;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.song a {
+    text-decoration: none;
+    color: #ff2d95;
+    font-weight: bold;
+}
+
+.song a:hover {
+    text-decoration: underline;
+}
