@@ -1,0 +1,45 @@
+body{
+    
+    background-image: url("images/sign\ jisoo.jpg");
+     box-shadow:black;
+     box-sizing: border-box;
+     background-size:  left contain;
+     background-attachment: fixed;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    color: #ce1770 ;
+     font-family: "Merienda", cursive;
+}
+img{
+    width: 600px;
+    display: block;
+    margin: 20px;
+    border-radius: 15px;
+}
+p{
+    background-color:#f36dae;
+    margin-bottom: 10px;
+    color: #6d0b3b;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Trade Winds", system-ui;
+}
+h2{
+    background-color:#f36dae;
+    color: #6d0b3b;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+     font-family: "Gluten", cursive;
+}
+.footer p{
+    font-family: "MedievalSharp", cursive;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
