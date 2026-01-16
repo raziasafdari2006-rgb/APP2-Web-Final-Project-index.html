@@ -1,0 +1,74 @@
+ /*rose*/
+        header.rose{
+            background-color: rgb(232, 240, 247);
+            color: purple;
+            font-size:45px;
+            text-align: center;
+            font-family: "Croissant One", serif;
+
+        }
+        .section p.rose{
+            font-size: 25px;
+            text-align: center;
+        }
+        .sidbar .rose{
+            background: aliceblue;
+            opacity: 95%;
+        }
+        p.rose{
+            color: rgb(182, 86, 182);
+            background-color: aliceblue;
+            text-align: center;
+            font-size: 28px;
+            margin-top: 10px;
+            margin-bottom: 15px;
+            margin-left: 15px;
+            padding-left: 35px;
+            padding-right: 34px;
+            line-height: 1.5;
+        }
+        img.rose{
+            width: 400px;
+            margin-left: 20px;
+        }
+        h1.rose{
+            background-color: aliceblue;
+            font-size: 80px;
+            text-align: center;
+            color:purple;
+            margin-top: 8px;
+            margin-bottom: 15px;
+            font-family: "Croissant One", serif;
+        }
+        h2.rose{
+            color:purple;
+            font-size:48px ;
+            text-align: left;
+            margin-bottom: 10px;
+            margin-bottom: 15px;
+            text-align: center;
+            font-family: "Croissant One", serif;
+        }
+        h3.rose{
+            color:purple;
+            font-size: 40px;
+            text-align: center;
+            margin-bottom: 18px;
+            margin-bottom: 20px;
+            font-family: "Croissant One", serif;
+        }
+        h4.rose{
+            color: purple;
+            font-size: 45px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 20px;
+            font-family: "Croissant One", serif;
+        }
+         footer.rose{
+            color:purple;
+            background-color: rgb(250, 246, 250);
+            font-size: 45px;
+            text-align: center;
+            font-family: "Creepster", system-ui;
+        }
